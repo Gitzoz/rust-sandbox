@@ -1,0 +1,8 @@
+[package]
+name = "nn_classifier"
+version = "0.1.0"
+authors = ["Stefan Röhrbein"]
+
+[dependencies]
+rand="*"
+euclid="*"
